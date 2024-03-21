@@ -1,0 +1,70 @@
+#título{
+    text-align: justify;
+    margin-left: 550px;
+    margin-right: 250px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+p a{
+    color: inherit;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#título h3 a{
+    color: black;
+}
+#título h3{
+    color: black;
+}
+#título p{
+    color: rebeccapurple;
+}
+#dorminhoco{
+    text-align: justify;
+    margin-left: 550px;
+    margin-right: 250px;
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p{
+    color: slategray    ;
+}
+#preguiçoso{
+    text-align: justify;
+    margin-left: 1000px;
+    margin-right: 100px;
+    margin-top: -80px;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: -1
+
+}
+#independente{
+    text-align: justify;
+    margin-left: 550px;
+    margin-right: 570px;
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: -1
+
+}
+#arisco{
+    text-align: justify;
+    margin-left: 1000px;
+    margin-right: 100px;
+    margin-top: -100px;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: -1
+
+}
+#gato img {
+    position:fixed;
+    top:0;
+    left:0;
+    width: 35%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
